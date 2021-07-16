@@ -1,3 +1,5 @@
 # CryptoScreener
 
 [Скачать](https://github.com/alex290/CryptoScreener/releases/download/0.0.8-alpha/CryptoScreener.zip "Скачать")
+
+При обновлении релиза не заменяйте файл **data/setting.set**
