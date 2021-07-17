@@ -1,6 +1,6 @@
 # CryptoScreener
 
-[`Скачать`](https://github.com/alex290/CryptoScreener/releases/download/0.1.0-beta/CryptoScreener.zip "`Скачать`")
+[`Скачать`](https://github.com/alex290/CryptoScreener/releases/download/0.1.1-beta/CryptoScreener.zip "`Скачать`")
 
 При обновлении релиза не заменяйте файл **data/setting.set**
 
