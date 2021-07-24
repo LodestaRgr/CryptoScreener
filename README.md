@@ -1,5 +1,7 @@
 # CryptoScreener
 
+[![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/scr.png)](https://www.youtube.com/channel/UCiSd7JTmnbap0tVrPlf-Dew)
+
 [**Видео обзор скринера**](https://youtu.be/5Oa0iQE0sJk "#### **Видео обзор скринера**")
 
 [`Скачать`](https://github.com/alex290/CryptoScreener/releases/download/0.1.3-beta/CryptoScreener.zip "`Скачать`")
