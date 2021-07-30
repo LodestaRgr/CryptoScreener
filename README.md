@@ -49,7 +49,7 @@
 
 Для проверки сообщения бота можно нажать на кнопку `тест` в настройках
 
-![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot009.png)
+![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot009_en.png)
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot010.png)
 
