@@ -45,7 +45,7 @@
 
 Если с первого раза не получится набишите в чате еще сообщение и обновите в браузере страницу. Далее копируем chat -> id сам номер и вставляем в программу.
 
-![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot008.png)
+![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot008_en.png)
 
 Для проверки сообщения бота можно нажать на кнопку `тест` в настройках
 
