@@ -29,7 +29,7 @@
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot004.png)
 
-![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot005.png)
+![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot005_en.png)
 
 Далее нужно узнать ID чата где ваш бот будет присылать сообщения.
 
