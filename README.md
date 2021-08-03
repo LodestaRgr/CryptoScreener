@@ -2,18 +2,18 @@
 
 [![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/scr_en.png)](https://www.youtube.com/channel/UCiSd7JTmnbap0tVrPlf-Dew)
 
-[**Видео обзор скринера**](https://youtu.be/5Oa0iQE0sJk "#### **Видео обзор скринера**")
+[**Video review of the screener**](https://youtu.be/5Oa0iQE0sJk "#### **Video review of the screener**")
 
-[`Скачать`](https://github.com/alex290/CryptoScreener/releases/download/0.3.0-beta/CryptoScreener.zip "`Скачать`")
+[`Download`](https://github.com/alex290/CryptoScreener/releases/download/0.3.0-beta/CryptoScreener.zip "`Скачать`")
 
-При обновлении релиза не заменяйте файл **data/setting.set**
+When updating the release, do not replace the file **data/setting.set**
 
 
-#### Настройка Telegram Bot
+#### Configuring Telegram Bot
 
-Для начала создадим бота
+First, let's create a bot
 
-в телеграм поиске вводим `BotFather` и запускаем данного бота `/start`
+in the telegram search, we enter `BotFather` and we launch this bot `/start`
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot-001.jpg)
 
