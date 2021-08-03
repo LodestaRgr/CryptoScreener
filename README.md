@@ -37,20 +37,20 @@ To do this, we follow the link to the chat Bot
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot006.png)
 
-Запускаем его `/start` И пишем любое сообщение
+Launching it `/start` And we write any message
 
-далее создаем адрес https://api.telegram.org/botTOKEN/getUpdates где Вместо TOKEN вставляем токен бота например https://api.telegram.org/bot123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11/getUpdates и  вставляем в браузер данную ссылку
+next, create an address https://api.telegram.org/botTOKEN/getUpdates where instead of a TOKEN we insert a bot token for example https://api.telegram.org/bot123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11/getUpdates and we insert this link into the browser
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot007.png)
 
-Если с первого раза не получится набишите в чате еще сообщение и обновите в браузере страницу. Далее копируем chat -> id сам номер и вставляем в программу.
+If it doesn't work the first time, write another message in the chat and refresh the page in the browser. Next, copy chat -> id we insert the number itself into the program.
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot008_en.png)
 
-Для проверки сообщения бота можно нажать на кнопку `тест` в настройках
+To check the bot's message, you can click on the `test` button in the settings
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot009_en.png)
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot010.png)
 
-Если сообщение пришло значит настройки верные и сигналы будут приходить в зависимости от параметров сигнала
+If the message has arrived, then the settings are correct and the signals will come depending on the signal parameters
