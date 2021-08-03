@@ -17,23 +17,23 @@ in the telegram search, we enter `BotFather` and we launch this bot `/start`
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot-001.jpg)
 
-Далее выбираем `/newbot` - create a new bot
+Next, select `/newbot` - create a new bot
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot002.png)
 
-И придумываем название боту согласно инструкции
+And we come up with a name for the bot according to the instructions
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot003.png)
 
-Затем копируем ТОКЕН созданного бота и вставляем в настройки нашей программы
+Then we copy the TOKEN of the created bot and paste it into the settings of our program
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot004.png)
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot005_en.png)
 
-Далее нужно узнать ID чата где ваш бот будет присылать сообщения.
+Next, you need to find out the chat ID where your bot will send messages.
 
-Для этого мы переходим по ссылке в чат Бота
+To do this, we follow the link to the chat Bot
 
 ![](https://raw.githubusercontent.com/alex290/CryptoScreener/main/imghelp/bot006.png)
 
