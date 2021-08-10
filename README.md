@@ -4,7 +4,16 @@
 
 [**Video review of the screener**](https://youtu.be/5Oa0iQE0sJk "#### **Video review of the screener**")
 
+
+------------
+
+
+### Download Release
+
 [`Download`](https://github.com/alex290/CryptoScreener/releases/download/0.3.0-beta/CryptoScreener.zip "`Скачать`")
+
+------------
+
 
 When updating the release, do not replace the file **data/setting.set**
 
