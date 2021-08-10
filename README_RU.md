@@ -4,7 +4,16 @@
 
 [**Видео обзор скринера**](https://youtu.be/5Oa0iQE0sJk "#### **Видео обзор скринера**")
 
+
+------------
+
+
+### Скачать релиз
+
 [`Скачать`](https://github.com/alex290/CryptoScreener/releases/download/0.3.0-beta/CryptoScreener.zip "`Скачать`")
+
+------------
+
 
 При обновлении релиза не заменяйте файл **data/setting.set**
 
