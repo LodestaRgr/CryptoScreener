@@ -10,9 +10,9 @@
 
 ### Download Release
 
-[`Download the archive`](https://github.com/alex290/CryptoScreener/releases/download/0.3.4-beta/CryptoScreener.zip "`Скачать`")
+[`Download the archive`](https://github.com/alex290/CryptoScreener/releases/download/0.9.0-beta/CryptoScreen.zip "`Скачать`")
 
-[`Download Install`](https://github.com/alex290/CryptoScreener/releases/download/0.3.4-beta/CryptoScreener.exe "`Скачать`")
+[`Download Install`](https://github.com/alex290/CryptoScreener/releases/download/0.9.0-beta/CryptoScreener.exe "`Скачать`")
 
 ------------
 
